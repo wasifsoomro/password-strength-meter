@@ -132,4 +132,4 @@ with st.expander("Password Strength Criteria"):
 
 st.markdown("------------")
 
-st.markdown("Made with ❤️ by [Muhammad Awais](https://github.com/awais995)")
+st.markdown("Made with ❤️ by [Muhammad Wasif](https://github.com/wasifsoomro/)
